@@ -62,10 +62,27 @@ Welcome to my GitHub profile! I am a software developer and engineer with a pass
 
 ### GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Sidrawat11&show_icons=true&theme=radical" alt="Parth Rawat's GitHub Stats" />
 
 ### Top Languages
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidrawat11&layout=compact&theme=radical" alt="Parth Rawat's Top Languages" />
+
+### Social Media
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/prawat7/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  </a>
+  <a href="https://mail.google.com/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>
