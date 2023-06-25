@@ -73,10 +73,20 @@ Welcome to my GitHub profile! I am a software developer and engineer with a pass
 ### Connect with Me
 
 <p align="center" style="text-align: center;">
-  <a href="https://www.linkedin.com/in/prawat7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" style="margin: 0 5px"/>
+  <a href="https://twitter.com/sidraw1611" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40" style="margin: 0 10px"/>
+  </a>
+  <a href="https://www.linkedin.com/in/prawat7" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" style="margin: 0 10px"/>
+  </a>
+  <a href="https://github.com/Sidrawat11" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" style="margin: 0 10px"/>
+  </a>
+   <a href="https://www.reddit.com/user/SidRawat11" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reddit/reddit-original.svg" alt="reddit" width="40" height="40" style="margin: 0 10px"/>
   </a>
   <a href="mailto:paarthsrawat@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="gmail" width="40" height="40" style="margin: 0 5px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="gmail" width="40" height="40" style="margin: 0 10px"/>
   </a>
 </p>
+
