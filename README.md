@@ -65,8 +65,7 @@ Welcome to my GitHub profile! I am a software developer and engineer with a pass
 
 ### Top Languages
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidrawat11&layout=compact&theme=radical" alt="Parth Rawat's Top Languages" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidrawat11&layout=compact&theme=radical)
 
 #
 
