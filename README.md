@@ -2,7 +2,7 @@
 
 **`Software Developer and Engineer`**
 
-Welcome to my GitHub profile! I am a software developer and engineer with a passion for learning and building new things. I enjoy building projects that solve real world problems and are cool to code and program.
+Welcome to my GitHub profile! I am a software developer and engineer with a passion for learning and building new things. I enjoy working with a variety of languages and technologies, and I am always looking for new opportunities to learn and grow as a developer.
 
 ---
 
