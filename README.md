@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a software developer and engineer with a pass
 
 ## Skills and Tools
 
-<div style="width: 400px; height: 200px; border: 1px solid black; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+<div style="width: 200px; height: 200px; border: 1px solid black; display: flex; flex-direction: column; justify-content: center; align-items: center;">
   <p style="text-align: center;">Languages:</p>
   <div style="display: flex; justify-content: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
