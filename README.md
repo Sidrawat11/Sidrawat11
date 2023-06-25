@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am a software developer and engineer with a pass
 
 <div style="width: 200px; height: 200px; border: 1px solid black; display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: white;">
   <p style="text-align: center;">Languages:</p>
-  <div style="display: flex; justify-content: center;">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I am a software developer and engineer with a pass
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="C#" width="40" height="40"/>
   </div>
 </div>
+
 
 
 
