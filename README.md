@@ -69,7 +69,7 @@ Welcome to my GitHub profile! I am a software developer and engineer with a pass
 
 ### Connect with Me
 
-<p align="left" style="text-align: center;">
+<p align="center" style="text-align: center;">
   <a href="https://www.linkedin.com/in/prawat7/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" style="margin: 0 5px"/>
   </a>
