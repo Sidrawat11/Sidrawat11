@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I am a software developer and engineer with a pass
 
 ## Skills and Tools
 
-### Languages
 <p align="center">
+  Languages and Technologies
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 0 5px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin: 0 5px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin: 0 5px"/>
