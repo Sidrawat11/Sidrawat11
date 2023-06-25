@@ -1,3 +1,3 @@
 # Parth Rawat
 
-**'Software Developer'**
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
