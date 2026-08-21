@@ -8,7 +8,7 @@ Outside of that I go one abstraction layer down for fun. A manhwa upscaler becau
 
 ### Things I've built
 
-**Encrypted Network Tunnel** · Rust · *repo coming, still learning*
+**[Encrypted Network Tunnel](https://github.com/Sidrawat11/tether)** · Rust · *repo coming, still learning*
 Two machines, one encrypted pipe, no third party in between. Built from the TUN device up — packet capture, IP header parsing by hand, UDP encapsulation, Noise protocol handshake. Targeting Linux and Windows. I'm learning the language by writing it, so it goes up when it does something worth showing.
 
 **[ManwhaHDFyer](https://github.com/Sidrawat11/manwha-hdfyer)** · Python, PyTorch, CUDA
